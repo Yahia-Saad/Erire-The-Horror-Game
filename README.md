@@ -1,8 +1,8 @@
-# Erire 1.1.1
+# Erire 1.1.1 alpha version
 
 **Erire** is an exciting adventure game that combines action, puzzles, and exploration in a mysterious open world.
 
-## Version 1.1.1 - Release Notes
+## Version 1.1.1 - Alpha Notes
 
 * Fixed several bugs to improve game stability.  
 * Enhanced overall game performance and smoother animations.  
